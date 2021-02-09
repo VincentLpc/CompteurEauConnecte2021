@@ -1,2 +1,2 @@
 Aucun style n'a été créé pour la gestion de vos titres, paragraphes, polices de caractères.
-Le fait qu'il n'y ait pas d'entête et un pied de page sur 3 lignes, pas clairement séparé du corps du document risque d'apporter des confusion.
+Le fait qu'il n'y ait pas d'entête et un pied de page sur 3 lignes, pas clairement séparé du corps du document risque d'apporter des confusions.

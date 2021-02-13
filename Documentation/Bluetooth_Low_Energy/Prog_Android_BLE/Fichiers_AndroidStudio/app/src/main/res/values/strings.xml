@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BLE</string>
+    <string name="connexion">Connexion</string>
+    <string name="permission_obligatoire">"La permission ACCESS_FINE_LOCATION est obligatoire. L'application va se fermer"</string>
+    <string name="explication_permission">"La permission ACCESS_FINE_LOCATION est nécessaire pour pouvoir utiliser les fonctionnalités Bluetooth Low Energy sur ce terminal. Voulez-vous reconsidérer la demande de permission ?"</string>
+    <string name="demande_permission_titre">"Demande de permission"</string>
+</resources>
